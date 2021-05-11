@@ -50,6 +50,7 @@ This is an example of how to load and crawl inside every website and get the rea
 After its done, it will automatically generate worldmap and pdf with bar graphs , while the machine learning will be answer to our five project goals
 
 ## How to improve the project ?
-- Collect more data , with wider date range
+- Collect more data , with wider date range.
 - Save data with real DB , like SQL...
-- Upgrade/Change the machine learning model , maybe there is a better model
+- Upgrade/Change the machine learning model , maybe there is a better model.
+- Handle with unknown values.
