@@ -16,7 +16,10 @@ Each attack can make a lot of damage for Industry company , government services 
 
 ## Threat map website 
 
-- Threat map FortiGuard - Fire eye Cyber Map -Threat map Bitdefender - Threat Map Checkpoint
+- Threat map FortiGuard Website
+- Fire eye Cyber Map Website
+- Threat map Bitdefender Website 
+- Threat Map Checkpoint Website 
 
 ## Features
 
@@ -28,7 +31,7 @@ Each attack can make a lot of damage for Industry company , government services 
 ## Pre-install API's
 
 Soccer Match Calculator uses a number of api's to work properly:
-- [Selenium]      - Helps me to get data from dynamic HTML websites
+- [Selenium]      - Helps me to get data from dynamic HTML websites (need install chromedriver.exe)
 - [Beautifulsoup] - Helps me to navigate easier in HTML  
 - [Matplotlib]    - Helps me to show data visually to the user
 - [GaussianNB]    - Helps me to be able to predict the next cyber attack
