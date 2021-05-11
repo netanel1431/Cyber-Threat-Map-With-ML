@@ -26,7 +26,7 @@ Each attack can make a lot of damage for Industry company , government services 
 - Crawl on a webpage.
 - Save the data into .csv format (with Pandas)
 - Gather the data :'Website_Source','Timestamp','Attack_Source','Attack_Target','Attack_Type','Attack_Name' from every website.
-- Create a unique unique worldmap for all the "Attack_Source","Attack_Target" and for eavery unique value from the "Attack_Type" column.
+- Create a unique worldmap for all the "Attack_Source","Attack_Target" and for eavery unique value from the "Attack_Type" column.
 
 ## Pre-install API's
 
