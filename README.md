@@ -1,18 +1,17 @@
-# Predict_and_analyze_Cyber_attacks with Machine Learning with naive_bayes GaussianNB model
-Predict_and_analyze_Cyber_attacks run over  4 threat map websites, crawl and gather data over all the current real time attack
-
+# Predict and analyze Cyber Attacks With Machine Learning naive_bayes GaussianNB model
+Predict_and_analyze_Cyber_attacks run over 4 threat map websites, crawl and gather data over all the current real time attack
 
 ## Problem
 Everyday tens of millions of cyber attacks take place around the world.
 Each attack split to different type: Injection, Malware, Spam DDOS, Exploit Vulnerability and more…
 Each attack can make a lot of damage for Industry company , government services and more…
 
-## Project Goal 
-- predict the next attack target ,based on the 'Attack_Source' column (display/print the 5 most Chance to the next attack target for each unique country on the    'Attack_Source' column)
-- predict the next attack target ,based on the 'Attack_Source' and 'Attack_Type' column (display/print the 5 most Chance to the next attack target)
-- predict the next Source attack ,based on the 'Attack_Target' column (display/print the 5 most Chance to the next attack target)
-- predict the next Source attack ,based on the 'Attack_Target' and 'Attack_Type' column (display/print the 5 most Chance to the next attack target)
-- predict the next Source & Target attack for each uniquely value from the 'Attack_Type' column
+## Project Goals
+- 1.predict the next attack target ,based on the 'Attack_Source' column (display/print the 5 most Chance to the next attack target for each unique country on the    'Attack_Source' column)
+- 2.predict the next attack target ,based on the 'Attack_Source' and 'Attack_Type' column (display/print the 5 most Chance to the next attack target)
+- 3.predict the next Source attack ,based on the 'Attack_Target' column (display/print the 5 most Chance to the next attack target)
+- 4.predict the next Source attack ,based on the 'Attack_Target' and 'Attack_Type' column (display/print the 5 most Chance to the next attack target)
+- 5.predict the next Source & Target attack for each uniquely value from the 'Attack_Type' column
 
 ## Threat map website 
 
@@ -30,7 +29,7 @@ Each attack can make a lot of damage for Industry company , government services 
 
 ## Pre-install API's
 
-Soccer Match Calculator uses a number of api's to work properly:
+Predict_and_analyze_Cyber_attacks of api's to work properly:
 - [Selenium]      - Helps me to get data from dynamic HTML websites (need install chromedriver.exe)
 - [Beautifulsoup] - Helps me to navigate easier in HTML  
 - [Matplotlib]    - Helps me to show data visually to the user
@@ -39,16 +38,14 @@ Soccer Match Calculator uses a number of api's to work properly:
 
 ## Installation
 
-Soccer Match Calculator requires Python3 and up to run.
-Also 
+Predict_and_analyze_Cyber_attacks requires Python3 and up to run.
+
 
 ## Examples 
 
 You can run my code like this:
-
-sh
-python Soccer.py 
+main.py 
 
 
-This is an example of how to load and crawl inside every website and get the freshest data!
-After its done, it will automatically generate any missing data that will be eventually availble in ti
+This is an example of how to load and crawl inside every website and get the real time data!
+After its done, it will automatically generate worldmap and pdf with bar graphs , while the machine learning will be answer to our five project goals
