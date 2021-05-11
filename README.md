@@ -8,7 +8,7 @@ Each attack split to different type: Injection, Malware, Spam DDOS, Exploit Vuln
 Each attack can make a lot of damage for Industry company , government services and more…
 
 ## Project Goal 
--predict the next attack target ,based on the 'Attack_Source' column (display/print the 5 most Chance to the next attack target for each unique country on the    'Attack_Source' column)
+- predict the next attack target ,based on the 'Attack_Source' column (display/print the 5 most Chance to the next attack target for each unique country on the    'Attack_Source' column)
 - predict the next attack target ,based on the 'Attack_Source' and 'Attack_Type' column (display/print the 5 most Chance to the next attack target)
 - predict the next Source attack ,based on the 'Attack_Target' column (display/print the 5 most Chance to the next attack target)
 - predict the next Source attack ,based on the 'Attack_Target' and 'Attack_Type' column (display/print the 5 most Chance to the next attack target)
@@ -16,7 +16,7 @@ Each attack can make a lot of damage for Industry company , government services 
 
 ## Threat map website 
 
-Threat map FortiGuard,Fire eye Cyber Map,Threat map Bitdefender,Threat Map Checkpoint
+- Threat map FortiGuard - Fire eye Cyber Map -Threat map Bitdefender - Threat Map Checkpoint
 
 ## Features
 
