@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
      path = os.getcwd()
      df_file_path = os.path.join(path, 'Cyber_Attack_DB.csv')
-     Crawling_Amount=250         #If not config the default is 30
+     Crawling_Amount=5           #If not config the default is 30
      mode='a'                    #'a'-edit the current CSV file , 'w' -delete existing CSV file and create new with the same name
      header=False                #False - Not add header to the CSV file , True - add header to the CSV file
 
