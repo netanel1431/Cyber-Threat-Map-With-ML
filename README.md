@@ -1,4 +1,4 @@
-# Predict and analyze Cyber Attacks With Machine Learning naive_bayes GaussianNB model
+# Predict and analyze Cyber Attacks With Machine Learning Random-Forest-Classifier model
 Predict_and_analyze_Cyber_attacks run over 4 threat map websites, crawl and gather data over all the current real time attack
 
 ## Problem
@@ -33,7 +33,7 @@ Predict_and_analyze_Cyber_attacks of api's to work properly:
 - [Selenium]      - Helps me to get data from dynamic HTML websites (need install chromedriver.exe)
 - [Beautifulsoup] - Helps me to navigate easier in HTML  
 - [Matplotlib]    - Helps me to show data visually to the user
-- [GaussianNB]    - Helps me to be able to predict the next cyber attack
+- [sklearn.ensemble]    - Helps me to be able to predict the next cyber attack
 
 
 ## Installation
