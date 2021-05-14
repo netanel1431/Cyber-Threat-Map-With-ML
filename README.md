@@ -54,3 +54,4 @@ After its done, it will automatically generate worldmap and pdf with bar graphs 
 - Save data with real DB , like SQL...
 - Upgrade/Change the machine learning model , maybe there is a better model.
 - Handle with unknown values.
+- Add more code map for the world map view
