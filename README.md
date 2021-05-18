@@ -34,6 +34,7 @@ Predict_and_analyze_Cyber_attacks of api's to work properly:
 - [Beautifulsoup] - Helps me to navigate easier in HTML  
 - [Matplotlib]    - Helps me to show data visually to the user
 - [sklearn.ensemble]    - Helps me to be able to predict the next cyber attack
+- [pygal,pygal_maps_world] Helps to me create WorldMap of all the atttacks for visibility.
 
 
 ## Installation
@@ -54,4 +55,4 @@ After its done, it will automatically generate worldmap and pdf with bar graphs 
 - Save data with real DB , like SQL...
 - Upgrade/Change the machine learning model , maybe there is a better model.
 - Handle with unknown values.
-- Add more code map for the world map view
+- Add more code map for the world map view 
